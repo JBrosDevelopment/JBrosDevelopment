@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @JBrosDevelopment
-- 👀 I’m interested in ... Game Making, Scripting/Coding, CGI, 3D Modeling/Printing, and electonics
-- 🌱 I’m currently learning ... C# in Unity and how to use Unreal Engine
-- 📫 How to reach me ... This is my email - jbrosdevelopment@gmail.com
+JBros Development Github Account
+jbros-development.web.app
+jbrosdevelopment@gmail.com
