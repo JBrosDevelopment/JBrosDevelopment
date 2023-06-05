@@ -1,6 +1,6 @@
 # JBros Dev
 
-Welcome to JBros Dev, a software development company dedicated to crafting innovative solutions. We specialize in building robust applications that leverage cutting-edge technologies to meet your unique business needs.
+Welcome to JBros Dev, a software development company dedicated to crafting innovative solutions. At J-Bros Development, we use Unity and Visual Studio to bring our ideas to life.
 
 ## Contact
 
