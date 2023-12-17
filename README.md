@@ -1,6 +1,6 @@
 ## **JBros Dev**
 
-Welcome to JBros Dev, a software development company dedicated to crafting innovative solutions. At J-Bros Development, I use Unity and Visual Studio to bring my ideas to life.
+Welcome to JBros Dev, a software development company dedicated to crafting innovative solutions. At J-Bros Development, I use Visual Studio to bring my ideas to life.
 
 ## Support
 
