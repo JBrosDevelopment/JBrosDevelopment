@@ -1,6 +1,6 @@
 <h1 align="center">Hey, ✌️ I'm JBros Development</h1>
 <h3 align="center">Hey, I'm a young software developer. I've had a couple 2-3 of experience now and have worked on many projects and games.</h3>
-<h3 align="center">I use <strong>C#</strong> as my go to language but have worked with <strong>JavaScript</strong>, <strong>Html</strong>, <strong>CSS</strong>, <strong>Python</strong></h3>
+<h3 align="center">I use <strong>C#</strong> as my go to language but have worked with others as well. Check out the <a href="https://jbrosdev.hashnode.dev/">blog</a> I post on every once in a while.</h3>
 
 <h1 align="center">Website</h1>
 <h3 align="center">https://jbros-development.web.app</h3>
