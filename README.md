@@ -1,23 +1,28 @@
-## **JBros Dev**
+<h1 align="center">Hey, ✌️ I'm JBros Development</h1>
+<h3 align="center">Hey, I'm a young software developer. I've had a couple 2-3 of experience now and have worked on many projects and games.</h3>
+<h3 align="center">I use <strong>C#</strong> as my go to language but have worked with <strong>JavaScript</strong>, <strong>Html</strong>, <strong>CSS</strong>, <strong>Python</strong></h3>
 
-Welcome to JBros Dev, a software development company dedicated to crafting innovative solutions. At J-Bros Development, I use Visual Studio to bring my ideas to life.
+<h1 align="center">Website</h1>
+<h3 align="center">https://jbros-development.web.app</h3>
 
-## Support
+<h1 align="center">I like to use these tools ⌨️</h1>
+<p align="center"> 
+  <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
+  <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+  <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+  <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+  </br>
+  <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+  <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+  <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
+</p>
 
-If you would like to support me, Here is my [Patreon](patreon.com/JBrosDevelopment)
+---
 
-## **Contact**
-
-For inquiries, collaboration opportunities, or any questions, feel free to reach out to me:
-
-Email: jbrosdevelopment@gmail.com
-Website: jbros-development.web.app
-I would be delighted to hear from you and discuss how I can assist with your software development projects.
-
-## **About**
-
-I am a skilled and passionate developer with expertise in various technologies, including web and pc development. I strive for excellence in every project.
-
-## **Get Started**
-
-Visit my website to learn more about my services and explore my portfolio of successful projects.
+<p align="center">
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JBrosDevelopment&show_icons=true&theme=github_dark&locale=en&count_private=true&hide=issues" alt="JBrosDevelopment" />
+  </a>
+</p>
