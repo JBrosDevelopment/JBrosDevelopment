@@ -16,7 +16,7 @@
     <img width="35%" src="https://raw.githubusercontent.com/JBrosDevelopment/Norma/main/images/Norma%20(Wide).png" /></a>
   </div>
   <div>
-    <h3><a href="https://github.com/JBrosDevelopment/calc_lang">Calculator Language</a> | <a href="https://github.com/JBrosDevelopment/TerminalEngine">Terminal Engine</a></h3>
+    <h3><a href="https://github.com/JBrosDevelopment/calc_lang">Calculator Language</a> | <a href="https://github.com/JBrosDevelopment/TerminalEngine">Terminal Engine</a> | <a href="https://github.com/JBrosDevelopment/VirtualComputer">Virtual Computer</a></h3>
   </div>
 </div>
 
