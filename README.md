@@ -5,7 +5,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=JBrosDevelopment&show_icons=true&theme=nord&locale=en&count_private=true&show=issues&bg_color=.75,1d1420,091030&custom_title=JBros%20Development%27s%20Stats&rank_icon=github" alt="JBrosDevelopment" />
 </a>
 <a href="https://jbros-development.web.app">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JBrosDevelopment&layout=compact&langs_count=8&card_width=320&theme=nord&bg_color=.75,091030,1d1420" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JBrosDevelopment&layout=compact&theme=nord&bg_color=.75,091030,1d1420" />
 </a>
 </p>
 
