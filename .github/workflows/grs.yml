@@ -18,7 +18,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}show_icons=true&theme=nord&locale=en&count_private=true&show=issues&bg_color=.75,1d1420,091030&custom_title=JBros%20Development%27s%20Stats&rank_icon=github
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=nord&locale=en&count_private=true&show=issues&bg_color=.75,1d1420,091030&custom_title=JBros%20Development%27s%20Stats&rank_icon=github
           path: profile/stats1.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -26,7 +26,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}layout=compact&theme=nord&bg_color=.75,091030,1d1420
+          options: username=${{ github.repository_owner }}&layout=compact&theme=nord&bg_color=.75,091030,1d1420
           path: profile/stats2.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
