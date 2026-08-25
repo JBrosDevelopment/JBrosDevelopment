@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm JBros Development</h1>
+<h1 align="center">Hey, I'm Joseph</h1>
 
 <p align="center">
 <a href="https://jbros-development.web.app">
@@ -9,7 +9,7 @@
 </a>
 </p>
 
-#### I'm a young software developer. I've had 2-3 years of experience now and have worked on many projects and games. Check out the <a href="https://jbrosdev.hashnode.dev/">blog</a> I post on every once in a while.
+#### I'm a young software developer. I've had 4-5 years of experience now and have worked on many projects and games. Check out the <a href="https://jbrosdev.hashnode.dev/">blog</a> I post on every once in a while.
 
 <h1 align="center">Website</h1>
 
