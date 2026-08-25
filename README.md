@@ -1,9 +1,9 @@
 <h1 align="center">Hey, I'm Joseph</h1>
 
 <p align="center">
-<a href="https://jbros-development.web.app">
+<!--<a href="https://jbros-development.web.app">
     <img align="center" src="./profile/stats1.svg" alt="JBrosDevelopment" />
-</a>
+</a>-->
 <a href="https://jbros-development.web.app">
   <img height=200 align="center" src="./profile/stats2.svg" />
 </a>
@@ -19,7 +19,7 @@
 
 <div align="center">
 <h3><a href="https://github.com/JBrosDevelopment/calc_lang">Calculator Language</a> | <a href="https://github.com/JBrosDevelopment/TerminalEngine">Terminal Engine</a> | <a href="https://github.com/JBrosDevelopment/VirtualComputer">Virtual Computer</a></h3>
-  <div>
+  <<div>
     <a href="https://github.com/EZCodeLanguage/EZCode">
     <img width="35%" src="https://raw.githubusercontent.com/JBrosDevelopment/EZCode/master/docs/Images/EZCode_Wide_Logo.png" /></a>
   </div>
