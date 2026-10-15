@@ -1,42 +1,33 @@
-<h1 align="center">Hey, I'm Joseph</h1>
+<h1 align="center">Hi, I'm Joseph</h1>
 
 <p align="center">
-<!--<a href="https://jbros-development.web.app">
-    <img align="center" src="./profile/stats1.svg" alt="JBrosDevelopment" />
-</a>-->
-<a href="https://jbros-development.web.app">
-  <img height=200 align="center" src="./profile/stats2.svg" />
-</a>
+  Software Developer · Programming Languages · Developer Tools
 </p>
 
-#### I'm a young software developer. I've had 4-5 years of experience now and have worked on many projects and games. Check out the <a href="https://jbrosdev.hashnode.dev/">blog</a> I post on every once in a while.
+<p align="center">
+  <img
+    src="./profile/stats2.svg"
+    alt="Joseph's most used programming languages on GitHub"
+    height="200"
+  />
+</p>
 
-<h1 align="center">Website</h1>
+<p align="center">
+  <a href="https://jbros-development.web.app">Website</a> ·
+  <a href="https://jbros-hamilton-portfolio.web.app">Portfolio</a> ·
+  <a href="https://jbrosdev.hashnode.dev/">Technical Blog</a>
+</p>
 
-#### Please check out my website: https://jbros-development.web.app
+## About Me
 
-<h1 align="center">My Best Projects</h1>
+I'm a software developer who enjoys understanding how software works by building it from the ground up. My projects span custom programming languages, compilers, virtual machines, and tools for creating games and graphics.
 
-<div align="center">
-<h3><a href="https://github.com/JBrosDevelopment/calc_lang">Calculator Language</a> | <a href="https://github.com/JBrosDevelopment/TerminalEngine">Terminal Engine</a> | <a href="https://github.com/JBrosDevelopment/VirtualComputer">Virtual Computer</a></h3>
-  <<div>
-    <a href="https://github.com/EZCodeLanguage/EZCode">
-    <img width="35%" src="https://raw.githubusercontent.com/JBrosDevelopment/EZCode/master/docs/Images/EZCode_Wide_Logo.png" /></a>
-  </div>
-  <div>
-    <a href="https://github.com/JBrosDevelopment/Norma">
-    <img width="35%" src="https://raw.githubusercontent.com/JBrosDevelopment/Norma/main/images/Norma%20(Wide).png" /></a>
-  </div>
-  <div>
-  </div>
-</div>
+I work with C, C#, and Rust, exploring everything from language syntax and execution to memory, instruction sets, and rendering. I also share what I learn through technical articles and project walkthroughs.
 
----
 
-```c
+## Technical Interests
 
-for (int i = 0; i < MILLION; i++) {
-  print("thanks for visiting!");
-} 
-
-```
+- **Language development:** syntax design, interpreters, compilers, and command-line tooling
+- **Systems programming:** virtual machines, assembly, instruction sets, and memory
+- **Graphics and games:** rendering tools, terminal graphics, and game development
+- **Technical writing:** explaining implementation decisions through practical examples
